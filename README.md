@@ -43,7 +43,7 @@ It is an excellent showcase for **AI & web development skills**, making it perfe
 ---
 
 ## **Dataset**
-- The model was trained on a **custom waste dataset** containing images for categories like `Organic` and `Recyclable`.  
+- The model was trained on a **custom waste dataset** containing images for categories like `Organic` and `Recyclable`.   
 - Dataset split: `TRAIN` and `TEST` folders.  
 - Images resized to `128x128` and normalized before feeding into the CNN.  
 
